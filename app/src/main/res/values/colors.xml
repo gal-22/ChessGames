@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="boardWhite">#bec2b1</color>
+    <color name="boardBlack">#5c4033</color>
+    <color name="pieceSelectColor">#b30027</color>
+
+</resources>

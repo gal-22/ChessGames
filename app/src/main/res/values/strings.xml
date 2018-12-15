@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ChessGames</string>
+    <string name="pawn_piece_image">pawn piece image</string>
+    <string name="am_player_turn">Player turn:</string>
+    <string name="ma_playerturn_white">White</string>
+    <string name="ma_playerturn_black">Black</string>
+</resources>
